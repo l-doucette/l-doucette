@@ -19,7 +19,7 @@
 7. #### I initially got interested in neuroscience because I find the idea that we are meat puppets controlled by a 1.3kg blob of fat incredibly odd, yet simultaneously mundane.
 
 8. #### I have been certain for years that my career lies in medicine, and I will likely specialize in a brain-related subject. I do rather enjoy the prospect of spaceflight though. Hopefully I can combine the two. In years to come, maybe I will be:
-    Dr. Doucette, the *space doctor*.  
+    **Dr. Doucette, the *space doctor*.**  
 <!--
 **l-doucette/l-doucette** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
